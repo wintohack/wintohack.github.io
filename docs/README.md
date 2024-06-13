@@ -54,7 +54,7 @@ Nuestra auditoría web de hacking ético (un aplicativo) es una evaluación exha
 <body>
   <div class="container">
     <div class="image">
-      <img src="docs/hacker.jpg" alt="Imagen de 300x300" width="300" height="300">
+      <img src="docs/hacker.jpg" alt="Hacker" width="300" height="300">
     </div>
     <div>
       <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
@@ -81,7 +81,9 @@ Nuestra auditoría web de hacking ético (un aplicativo) es una evaluación exha
           </tr>
         </table>
         <input type="hidden" name="currency_code" value="EUR" />
+        <div class="image">
         <input type="image" class="paypal-button" src="docs/paypal.png" border="0" name="submit" title="PayPal, la forma rápida y segura de pagar en Internet." alt="Comprar ahora" />
+        </div>
       </form>
       <div id="info" class="info"></div>
     </div>
