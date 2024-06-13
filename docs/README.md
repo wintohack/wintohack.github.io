@@ -4,13 +4,9 @@ permalink: /
 # **Documentation**
 > How this project works and how to maintain your own
 
-<div align="center">
-    <a href="https://github.com/MichaelCurrin/gh-pages-no-jekyll/generate">
-        <img src="https://img.shields.io/badge/Use_this_template-Generate-2ea44f?style=for-the-badge" alt="Use this template">
-    </a>
-</div>
 
 
+<div style="text-align: center;">
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
   <input type="hidden" name="cmd" value="_s-xclick" />
   <input type="hidden" name="hosted_button_id" value="7LP3R7NTV69QA" />
@@ -37,6 +33,7 @@ permalink: /
   <input type="hidden" name="currency_code" value="EUR" />
   <input type="image" src="https://www.paypalobjects.com/es_ES/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" title="PayPal, la forma rápida y segura de pagar en Internet." alt="Comprar ahora" />
 </form>
+</div>
 
 ## Información Tipos de Pentest
 
