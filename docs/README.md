@@ -15,52 +15,48 @@ Nuestra auditoría web de hacking ético (un aplicativo) es una evaluación exha
 - **Evita Costos**: Reduce el riesgo de costosos incidentes de seguridad y pérdida de datos.
 
 
-<!DOCTYPE html>
+
 <html lang="es">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Formulario de PayPal</title>
+  <title>Formulario con Imagen</title>
   <style>
-    .form-container {
+    .container {
       display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-    }
-    .form-box {
-      display: flex;
-      border: 2px solid #000;
+      align-items: flex-start;
+      border: 1px solid #000;
       padding: 10px;
-      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-      max-width: 400px; /* Ajusta el ancho máximo del formulario */
     }
-    .form-box img {
-      width: 50px;
-      height: 50px;
+    .image {
       margin-right: 20px;
     }
-    .form-box form {
-      display: flex;
-      flex-direction: column;
-      justify-content: center;
-      width: 100%;
-    }
-    .form-box table {
-      width: 100%;
-    }
-    .form-box select, .form-box input[type="image"] {
-      width: 100%;
-    }
-    .form-box td {
-      padding: 5px 0;
+    .info {
+      margin-top: 10px;
     }
   </style>
+  <script>
+    function updateInfo() {
+      var select = document.getElementsByName('os0')[0];
+      var info = document.getElementById('info');
+      var selectedOption = select.options[select.selectedIndex].value;
+      
+      if (selectedOption === "Auditoria Web (un aplicativo)") {
+        info.innerHTML = '<a href="https://wintohack.github.io/docs/auditoria_web.html" target="_blank">Información sobre Auditoria Web (un aplicativo)</a>';
+      } else if (selectedOption === "Test de Intrusion Externo") {
+        info.innerHTML = '<a href="https://wintohack.github.io/docs/test_intrusion_externo.html" target="_blank">Información sobre Test de Intrusión Externo</a>';
+      } else {
+        info.innerHTML = '';
+      }
+    }
+  </script>
 </head>
 <body>
-  <div class="form-container">
-    <div class="form-box">
-      <img src="docs/hacker.jpg" alt="Hacker">
+  <div class="container">
+    <div class="image">
+      <img src="docs/hacker.jpg" alt="Imagen de 300x300" width="300" height="300">
+    </div>
+    <div>
       <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
         <input type="hidden" name="cmd" value="_s-xclick" />
         <input type="hidden" name="hosted_button_id" value="7LP3R7NTV69QA" />
@@ -73,7 +69,7 @@ Nuestra auditoría web de hacking ético (un aplicativo) es una evaluación exha
           </tr>
           <tr>
             <td>
-              <select name="os0">
+              <select name="os0" onchange="updateInfo()">
                 <option value="Auditoria Web (un aplicativo)">
                   Auditoria Web (un aplicativo) 2.750,00 € EUR
                 </option>
@@ -87,11 +83,11 @@ Nuestra auditoría web de hacking ético (un aplicativo) es una evaluación exha
         <input type="hidden" name="currency_code" value="EUR" />
         <input type="image" class="paypal-button" src="docs/paypal.jpg" border="0" name="submit" title="PayPal, la forma rápida y segura de pagar en Internet." alt="Comprar ahora" />
       </form>
+      <div id="info" class="info"></div>
     </div>
   </div>
 </body>
 </html>
-
 
 
 
