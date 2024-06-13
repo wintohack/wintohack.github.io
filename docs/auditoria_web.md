@@ -1,21 +1,23 @@
-### Auditoria Hacking Ético Web (un aplicativo)
-
-# **Auditoria de Hacki**
+# **Auditoría Web (Hacking Ético)**
 
 Este servicio se encuentra diseñado exclusivamente para PYMEs de hasta 250 empleados 
 
 **Nota**: Si desea contratar este servicio para compañías de mayor tamaño, pongase en contacto a través del formulario web y le atenderemos en la mayor brevedad posible.
-**Este servicio se encuentra diseñado exclusivamente para PYMEs de hasta 250 empleados**
-Nota: Si desea contratar este servicio para compañías de mayor tamaño, pongase en contacto a través del formulario web y le atenderemos en la mayor brevedad posible.
-  
-**Beneficios de la Auditoría Externa de Wintohack:**
 
-* Permite conocer las vulnerabilidades de los sistemas antes de que sean explotadas.
-* Ayuda a mejorar la postura de seguridad de la empresa.
-* Reduce el riesgo de ataques cibernéticos.
-* Aumenta la confianza de los clientes en la seguridad de la empresa.
+> ¿Como funciona?
 
+Una vez comprado el servicio en menos de 48 horas nos pondremos en contacto contigo para planificar las pruebas.
 
+> ¿Qué es una Auditoría Web (Hacking Ético)?
+
+Nuestra auditoría web de hacking ético es una evaluación exhaustiva diseñada para asegurar la máxima protección de tu sitio web. Realizada por hackers éticos expertos, utilizamos las mismas técnicas avanzadas que los hackers malintencionados, pero con un solo objetivo: mejorar la seguridad de tu sitio.
+
+> Beneficios para tu PYME:
+
+- **Protección Proactiva**: Identificamos y corregimos vulnerabilidades antes de que sean explotadas.
+- **Cumplimiento Normativo**: Asegura que tu empresa cumpla con las normativas de seguridad y privacidad.
+- **Confianza del Cliente**: Aumenta la confianza de tus clientes demostrando un compromiso serio con la seguridad.
+- **Evita Costos**: Reduce el riesgo de costosos incidentes de seguridad y pérdida de datos.
 
 
 >Fases del Servicio
