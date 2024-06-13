@@ -83,7 +83,7 @@
     </div>
     <div class="form-container">
       <div class="image">
-        <img src="hacker.jpg" alt="Hacker" width="300" height="300">
+        <img src="hacker.jpg" alt="Hacker" width="400" height="400">
       </div>
       <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
         <input type="hidden" name="cmd" value="_s-xclick" />
