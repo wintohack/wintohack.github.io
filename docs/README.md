@@ -38,15 +38,71 @@ permalink: /
   <input type="image" src="https://www.paypalobjects.com/es_ES/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" title="PayPal, la forma rápida y segura de pagar en Internet." alt="Comprar ahora" />
 </form>
 
-## About
+## Tipos de Pentest
 
-This project is built around using markdown content to make a website. 
+### Auditoria Web (un aplicativo)
 
-This is great for non-developers to work on. No experience with Ruby, Jekyll, Liquid, HTML or CSS required. Those are all used internally, but you don't need to worry about that.
+**Este servicio se encuentra diseñado exclusivamente para PYMEs de hasta 250 empleados**
+Nota: Si desea contratar este servicio para compañías de mayor tamaño, pongase en contacto a través del formulario web y le atenderemos en la mayor brevedad posible.
 
-This repo is super light. No config needed. You don't need to setup a theme or a layout. GitHub will figure that out and will apply its standard theme to your GitHub Pages site. So will it will have a clean, white, mobile-friendly site with a heading. The limitations are covered more on these pages, such as lack of a navbar. But you can still setup links to pages, as with the Menu below.
+**Como funciona**
 
-The page you are currently viewing is `README.md` in the docs directory, with path set as `/` in the frontmatter. Alternatively, you can add `index.md` or `index.html` as your homepage. I just like how a README.md previews well in GitHub.
+Una vez comprado el servicio en menos de 48 horas nos pondremos en contacto contigo para planificar las pruebas.
+
+**Wintohack** ofrece un servicio de Auditoría Externa que permite a las PYMEs conocer su perímetro de exposición y las vulnerabilidades existentes en sus sistemas. El servicio se divide en cinco fases:
+
+**Fase 1: Recopilación de Información (OSINT)**
+
+* Recopilación de información sobre la presencia de la empresa en internet.
+* Identificación de activos expuestos, como servidores, aplicaciones y dominios.
+* Búsqueda de vulnerabilidades conocidas y configuraciones erróneas.
+
+**Fase 2: Análisis Detallado**
+
+* Análisis en profundidad de los activos encontrados en la fase 1.
+* Identificación de software, versiones y tecnologías utilizadas.
+* Detección de vectores de ataque potenciales.
+
+**Fase 3: Evaluación de Vulnerabilidades**
+
+* Búsqueda de vulnerabilidades en los sistemas y aplicaciones.
+* Priorización de las vulnerabilidades según su impacto potencial.
+* Explotación de las vulnerabilidades críticas (con consentimiento del cliente).
+
+**Fase 4: Revisión de Resultados**
+
+* Revisión de las vulnerabilidades encontradas con el cliente.
+* Oportunidad para que el cliente aclare dudas o solicite pruebas adicionales.
+* Informe final con las vulnerabilidades detectadas y recomendaciones de solución.
+
+**Fase 5: Informe Final**
+
+Realizamos una presentación a alto nivel al final del proyecto en la que se documentarán los principales hallazgos y remediaciones y se hará entrega del informe.
+
+* Documentación completa de la auditoría, incluyendo:
+    * Objeto y alcance de la auditoría
+    * Sistemas auditados
+    * Equipo auditor
+    * Fechas de las pruebas
+    * Vulnerabilidades detectadas
+    * Soluciones recomendadas
+    * Observaciones
+    * Conclusiones
+* Resumen ejecutivo con los principales hallazgos y recomendaciones.
+
+**Beneficios de la Auditoría Externa de Wintohack:**
+
+* Permite conocer las vulnerabilidades de los sistemas antes de que sean explotadas.
+* Ayuda a mejorar la postura de seguridad de la empresa.
+* Reduce el riesgo de ataques cibernéticos.
+* Aumenta la confianza de los clientes en la seguridad de la empresa.
+
+**Si estás interesado en mejorar la seguridad de tu empresa, te recomiendo que te pongas en contacto con Wintohack para solicitar una Auditoría Externa.**
+
+
+
+### Test de Intrusión Externo
+
 
 
 ## How to use this project
