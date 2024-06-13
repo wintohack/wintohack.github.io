@@ -38,8 +38,8 @@ Nuestra auditoría web de hacking ético (un aplicativo) es una evaluación exha
       justify-content: center;
     }
     .custom-button {
-      width: 200%;
-      max-width: 200px; /* Adjust the max-width as needed */
+      width: 300%;
+      max-width: 300px; /* Adjust the max-width as needed */
     }
   </style>
   <script>
