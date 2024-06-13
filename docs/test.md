@@ -83,7 +83,7 @@
     </div>
     <div class="form-container">
       <div class="image">
-        <img src="docs/hacker.jpg" alt="Hacker" width="300" height="300">
+        <img src="hacker.jpg" alt="Hacker" width="300" height="300">
       </div>
       <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
         <input type="hidden" name="cmd" value="_s-xclick" />
@@ -110,7 +110,7 @@
         </table>
         <input type="hidden" name="currency_code" value="EUR" />
         <div class="button-container">
-          <input type="image" class="custom-button" src="docs/paypal.png" border="0" name="submit" title="Pagar ahora" alt="Comprar ahora" />
+          <input type="image" class="custom-button" src="paypal.png" border="0" name="submit" title="Pagar ahora" alt="Comprar ahora" />
         </div>
       </form>
       <div id="info" class="info"></div>
