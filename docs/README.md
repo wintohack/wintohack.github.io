@@ -4,7 +4,7 @@ permalink: /
 # **Documentation**
 > How this project works and how to maintain your own
 
-<!DOCTYPE html>
+
 <html lang="es">
 <head>
   <meta charset="UTF-8">
