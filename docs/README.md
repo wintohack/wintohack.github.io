@@ -1,8 +1,16 @@
 ---
 permalink: /
 ---
-# **Documentation**
-> How this project works and how to maintain your own
+# **Auditorias de Pentesting**
+> ¿Qué es el Pentesting?
+El pentesting es una simulación de ataque cibernético controlado que identifica vulnerabilidades en tus sistemas antes de que los atacantes reales puedan explotarlas. Nuestros expertos en ciberseguridad utilizan técnicas avanzadas para evaluar la seguridad de tus redes, aplicaciones y sistemas.
+
+> Beneficios para tu PYME:
+
+- **Protección Proactiva**: Identificamos y corregimos vulnerabilidades antes de que sean explotadas.
+- **Cumplimiento Normativo**: Asegura que tu empresa cumpla con las normativas de seguridad y privacidad.
+- **Confianza del Cliente**: Aumenta la confianza de tus clientes demostrando un compromiso serio con la seguridad.
+- **Evita Costos**: Reduce el riesgo de costosos incidentes de seguridad y pérdida de datos.
 
 
 <html lang="es">
