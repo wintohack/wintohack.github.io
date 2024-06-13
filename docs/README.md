@@ -10,6 +10,38 @@ permalink: /
     </a>
 </div>
 
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
+  <input type="hidden" name="cmd" value="_s-xclick" />
+  <input type="hidden" name="hosted_button_id" value="74PRSEBXA6ZBL" />
+  <table>
+    <tr>
+      <td>
+        <input type="hidden" name="on0" value="Cantidad"/>
+        Cantidad
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <select name="os0">
+          <option value="1 (web)-&gt;">
+            1 (web)-&gt; 2.750,00 € EUR
+          </option>
+          <option value="2 (web)-&gt;">
+            2 (web)-&gt; 5.420,00 € EUR
+          </option>
+          <option value="3 (web)-&gt;">
+            3 (web)-&gt; 8.250,00 € EUR
+          </option>
+          <option value="4 (web)-&gt;">
+            4 (web)-&gt; 11.000,00 € EUR
+          </option>
+        </select>
+      </td>
+    </tr>
+  </table>
+  <input type="hidden" name="currency_code" value="EUR" />
+  <input type="image" src="https://www.paypalobjects.com/es_XC/i/btn/btn_cart_LG.gif" border="0" name="submit" title="PayPal, la forma rápida y segura de pagar en Internet." alt="Añadir al carro" />
+</form>
 
 ## About
 
