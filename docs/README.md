@@ -33,8 +33,8 @@ El pentesting es una simulación de ataque cibernético controlado que identific
       box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     }
     .form-box img {
-      width: 10px;
-      height: 10px;
+      width: 50px;
+      height: 50px;
       margin-right: 20px;
     }
     .form-box form {
