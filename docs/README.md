@@ -47,7 +47,7 @@ El pentesting es una simulación de ataque cibernético controlado que identific
 <body>
   <div class="form-container">
     <div class="form-box">
-      <img src="hacker.jpg" alt="Hacker">
+      <img src="docs/hacker.jpg" alt="Hacker">
       <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
         <input type="hidden" name="cmd" value="_s-xclick" />
         <input type="hidden" name="hosted_button_id" value="7LP3R7NTV69QA" />
