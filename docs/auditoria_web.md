@@ -1,5 +1,10 @@
 ### Auditoria Hacking Ético Web (un aplicativo)
 
+# **Auditoria de Hacki**
+
+Este servicio se encuentra diseñado exclusivamente para PYMEs de hasta 250 empleados 
+
+**Nota**: Si desea contratar este servicio para compañías de mayor tamaño, pongase en contacto a través del formulario web y le atenderemos en la mayor brevedad posible.
 **Este servicio se encuentra diseñado exclusivamente para PYMEs de hasta 250 empleados**
 Nota: Si desea contratar este servicio para compañías de mayor tamaño, pongase en contacto a través del formulario web y le atenderemos en la mayor brevedad posible.
   
@@ -10,7 +15,7 @@ Nota: Si desea contratar este servicio para compañías de mayor tamaño, pongas
 * Reduce el riesgo de ataques cibernéticos.
 * Aumenta la confianza de los clientes en la seguridad de la empresa.
 
-**Si estás interesado en mejorar la seguridad de tu empresa, te recomiendo que te pongas en contacto con Wintohack para solicitar una Auditoría de Hacking Ético Web.**
+
 
 
 >Fases del Servicio
