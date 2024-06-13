@@ -4,15 +4,15 @@ Este servicio se encuentra diseñado exclusivamente para PYMEs de hasta 250 empl
 
 **Nota**: Si desea contratar este servicio para compañías de mayor tamaño, pongase en contacto a través del formulario web y le atenderemos en la mayor brevedad posible.
 
-> ¿Como funciona?
+> **¿Como funciona?**
 
 Una vez comprado el servicio en menos de 48 horas nos pondremos en contacto contigo para planificar las pruebas.
 
-> ¿Qué es una Auditoría Web (Hacking Ético)?
+> **¿Qué es una Auditoría Web (Hacking Ético)?**
 
 Nuestra auditoría web de hacking ético es una evaluación exhaustiva diseñada para asegurar la máxima protección de tu sitio web. Realizada por hackers éticos expertos, utilizamos las mismas técnicas avanzadas que los hackers malintencionados, pero con un solo objetivo: mejorar la seguridad de tu sitio.
 
-> Beneficios para tu PYME:
+> **Beneficios para tu PYME:**
 
 - **Protección Proactiva**: Identificamos y corregimos vulnerabilidades antes de que sean explotadas.
 - **Cumplimiento Normativo**: Asegura que tu empresa cumpla con las normativas de seguridad y privacidad.
@@ -20,7 +20,7 @@ Nuestra auditoría web de hacking ético es una evaluación exhaustiva diseñada
 - **Evita Costos**: Reduce el riesgo de costosos incidentes de seguridad y pérdida de datos.
 
 
->Fases del Servicio
+>**Fases del Servicio:**
 
 El servicio se divide en cuatro fases:
 
