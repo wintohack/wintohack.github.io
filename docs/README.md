@@ -14,7 +14,6 @@ El pentesting es una simulación de ataque cibernético controlado que identific
 - **Evita Costos**: Reduce el riesgo de costosos incidentes de seguridad y pérdida de datos.
 
 
-<!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8">
@@ -34,8 +33,8 @@ El pentesting es una simulación de ataque cibernético controlado que identific
       box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     }
     .form-box img {
-      width: 50px;
-      height: 50px;
+      width: 10px;
+      height: 10px;
       margin-right: 20px;
     }
     .form-box form {
