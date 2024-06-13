@@ -40,7 +40,7 @@ permalink: /
 
 ## Información Tipos de Pentest
 
-- [Auditoría Web (un aplicativo](auditoria_web.md)
+- [Auditoría Web (un aplicativo)](auditoria_web.md)
 - [Test de Intrusión Externo](test_intrusion_externo.md)
 
 
