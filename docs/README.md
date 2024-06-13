@@ -2,12 +2,12 @@
 permalink: /
 ---
 # **Auditoria Web (Hacking Ético)**
-> ¿Qué es una Auditoría Web (Hacking Ético)?
+> **¿Qué es una Auditoría Web (Hacking Ético)?**
 
 Nuestra auditoría web de hacking ético (un aplicativo) es una evaluación exhaustiva diseñada para asegurar la máxima protección de tu sitio web. Realizada por hackers éticos expertos, utilizamos las mismas técnicas avanzadas que los hackers malintencionados, pero con un solo objetivo: mejorar la seguridad de tu sitio.
 
 
-> Beneficios para tu PYME:
+> **Beneficios para tu PYME:**
 
 - **Protección Proactiva**: Identificamos y corregimos vulnerabilidades antes de que sean explotadas.
 - **Cumplimiento Normativo**: Asegura que tu empresa cumpla con las normativas de seguridad y privacidad.
@@ -91,11 +91,11 @@ Nuestra auditoría web de hacking ético (un aplicativo) es una evaluación exha
 
 
 # **Test de Intrusión de Hacking Etico**
-> ¿Qué es un Test de Intrusión Externo (Hacking Ético)?
+> **¿Qué es un Test de Intrusión Externo (Hacking Ético)?**
 
 Nuestro servicio de Test de Intrusion Externo le permitirá conocer su perímetro de exposición, adquiriendo una foto clara de sus vulnerabilidades expuestas y de cómo ponerles solución antes de que las encuentren los cibercriminales.
 
-> Beneficios para tu PYME:
+> **Beneficios para tu PYME:**
 
 - **Protección Proactiva**: Identificamos y corregimos vulnerabilidades antes de que sean explotadas.
 - **Cumplimiento Normativo**: Asegura que tu empresa cumpla con las normativas de seguridad y privacidad.
