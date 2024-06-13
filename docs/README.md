@@ -2,9 +2,10 @@
 permalink: /
 ---
 # **Auditorias de Pentesting**
-> ¿Qué es el Pentesting?
+> ¿Qué es una Auditoría Web (Hacking Ético)?
 
-El pentesting es una simulación de ataque cibernético controlado que identifica vulnerabilidades en tus sistemas antes de que los atacantes reales puedan explotarlas. Nuestros expertos en ciberseguridad utilizan técnicas avanzadas para evaluar la seguridad de tus redes, aplicaciones y sistemas.
+Nuestra auditoría web de hacking ético es una evaluación exhaustiva diseñada para asegurar la máxima protección de tu sitio web. Realizada por hackers éticos expertos, utilizamos las mismas técnicas avanzadas que los hackers malintencionados, pero con un solo objetivo: mejorar la seguridad de tu sitio.
+
 
 > Beneficios para tu PYME:
 
@@ -50,7 +51,7 @@ El pentesting es una simulación de ataque cibernético controlado que identific
         <tr>
           <td>
             <select name="os0">
-              <option value="Auditoria Web (un aplicativo)">
+              <option value="Auditoria Hackin Ético Web (un aplicativo)">
                 Auditoria Web (un aplicativo) 2.750,00 € EUR
               </option>
               <option value="Test de Intrusion Externo">
@@ -70,7 +71,7 @@ El pentesting es una simulación de ataque cibernético controlado que identific
 
 ## Información Tipos de Pentest
 
-- [Auditoría Web (un aplicativo)](auditoria_web.md)
+- [Auditoría Hacking Ético Web (un aplicativo)](auditoria_web.md)
 - [Test de Intrusión Externo](test_intrusion_externo.md)
 
 
