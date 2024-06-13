@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8">
@@ -88,7 +87,7 @@
     </div>
     <div class="form-container">
       <div class="image">
-        <img src="hacker.jpg" alt="Hacker" >
+        <img src="hacker.jpg" alt="Hacker" weight="350" hight="400" >
       </div>
       <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
         <input type="hidden" name="cmd" value="_s-xclick" />
