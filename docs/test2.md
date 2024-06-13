@@ -25,6 +25,14 @@
     .image {
       margin-bottom: 20px;
     }
+    .info-container {
+      flex: 1;
+      padding: 20px;
+      border-left: 1px solid #ddd;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
     .info {
       margin-top: 10px;
       text-align: center;
@@ -35,7 +43,7 @@
     }
     .custom-button {
       width: 100%;
-      max-width: 300px; /* Adjust the max-width as needed */
+      max-width: 300px; /* Ajustar el max-width según sea necesario */
     }
   </style>
   <script>
@@ -87,38 +95,40 @@
         </ul>
       </blockquote>
     </div>
-    <div class="form-container">
-      <div class="image">
-        <img src="hacker.jpg" alt="Hacker" width="350" height="400">
-      </div>
-      <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-        <input type="hidden" name="cmd" value="_s-xclick" />
-        <input type="hidden" name="hosted_button_id" value="7LP3R7NTV69QA" />
-        <table>
-          <tr>
-            <td>
-              <input type="hidden" name="on0" value="Tipo de Pentest"/>
-              Tipo de Pentest
-            </td>
-          </tr>
-          <tr>
-            <td>
-              <select name="os0" onchange="updateInfo()">
-                <option value="Auditoria Web (un aplicativo)">
-                  Auditoria Web (un aplicativo) 2.750,00 € EUR
-                </option>
-                <option value="Test de Intrusion Externo">
-                  Test de Intrusion Externo 6.700,00 € EUR
-                </option>
-              </select>
-            </td>
-          </tr>
-        </table>
-        <input type="hidden" name="currency_code" value="EUR" />
-        <div class="button-container">
-          <input type="image" class="custom-button" src="paypal.png" border="0" name="submit" title="Pagar ahora" alt="Comprar ahora" />
+    <div class="form-info-container">
+      <div class="form-container">
+        <div class="image">
+          <img src="hacker.jpg" alt="Hacker" width="350" height="400">
         </div>
-      </form>
+        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+          <input type="hidden" name="cmd" value="_s-xclick" />
+          <input type="hidden" name="hosted_button_id" value="7LP3R7NTV69QA" />
+          <table>
+            <tr>
+              <td>
+                <input type="hidden" name="on0" value="Tipo de Pentest"/>
+                Tipo de Pentest
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <select name="os0" onchange="updateInfo()">
+                  <option value="Auditoria Web (un aplicativo)">
+                    Auditoria Web (un aplicativo) 2.750,00 € EUR
+                  </option>
+                  <option value="Test de Intrusion Externo">
+                    Test de Intrusion Externo 6.700,00 € EUR
+                  </option>
+                </select>
+              </td>
+            </tr>
+          </table>
+          <input type="hidden" name="currency_code" value="EUR" />
+          <div class="button-container">
+            <input type="image" class="custom-button" src="paypal.png" border="0" name="submit" title="Pagar ahora" alt="Comprar ahora" />
+          </div>
+        </form>
+      </div>
       <div id="info" class="info"></div>
     </div>
   </div>
