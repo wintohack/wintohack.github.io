@@ -33,7 +33,7 @@
     }
     .custom-button {
       width: 100%;
-      max-width: 300px; /* Adjust the max-width as needed */
+      max-width: 300px; /* Ajusta el max-width según sea necesario */
     }
   </style>
   <script>
