@@ -11,9 +11,9 @@ permalink: /
 </div>
 
 
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
   <input type="hidden" name="cmd" value="_s-xclick" />
-  <input type="hidden" name="hosted_button_id" value="V3KWVFJ5NJX7A" />
+  <input type="hidden" name="hosted_button_id" value="NA7DS8P3Q95PY" />
   <table>
     <tr>
       <td>
@@ -24,20 +24,19 @@ permalink: /
     <tr>
       <td>
         <select name="os0">
-          <option value="Auditoría Web (un aplicativo)">
-            Auditoría Web (un aplicativo) 2.750,00 € EUR
+          <option value="Auditoria Web (un aplicativo)">
+            Auditoria Web (un aplicativo) 2.750,00 € EUR
           </option>
-          <option value="Test Intrusión Externo">
-            Test Intrusión Externo 6.700,00 € EUR
+          <option value="Test de Intrusion Externo">
+            Test de Intrusion Externo 6.700,00 € EUR
           </option>
         </select>
       </td>
     </tr>
   </table>
   <input type="hidden" name="currency_code" value="EUR" />
-  <input type="image" src="https://www.paypalobjects.com/es_XC/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" title="PayPal, la forma rápida y segura de pagar en Internet." alt="Comprar ahora" />
+  <input type="image" src="https://www.paypalobjects.com/es_ES/i/btn/btn_cart_LG.gif" border="0" name="submit" title="PayPal, la forma rápida y segura de pagar en Internet." alt="Añadir al carro" />
 </form>
-
 
 
 ## About
