@@ -18,7 +18,7 @@
       display: flex;
       flex-direction: column;
       align-items: center;
-      border: 2px solid #000; /* Añadir borde alrededor del contenedor */
+      border: 2px solid green; /*#000; /* Añadir borde alrededor del contenedor */
       border-radius: 10px; /* Añadir esquinas redondeadas */
       margin: 20px; /* Añadir margen alrededor del contenedor */
     }
