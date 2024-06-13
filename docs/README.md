@@ -1,10 +1,10 @@
 ---
 permalink: /
 ---
-# **Auditorias de Pentesting**
+# **Auditoria Web (Hacking Ético)**
 > ¿Qué es una Auditoría Web (Hacking Ético)?
 
-Nuestra auditoría web de hacking ético es una evaluación exhaustiva diseñada para asegurar la máxima protección de tu sitio web. Realizada por hackers éticos expertos, utilizamos las mismas técnicas avanzadas que los hackers malintencionados, pero con un solo objetivo: mejorar la seguridad de tu sitio.
+Nuestra auditoría web de hacking ético (un aplicativo) es una evaluación exhaustiva diseñada para asegurar la máxima protección de tu sitio web. Realizada por hackers éticos expertos, utilizamos las mismas técnicas avanzadas que los hackers malintencionados, pero con un solo objetivo: mejorar la seguridad de tu sitio.
 
 
 > Beneficios para tu PYME:
@@ -90,7 +90,7 @@ Nuestra auditoría web de hacking ético es una evaluación exhaustiva diseñada
 
 
 
-# **Auditorias de Pentesting**
+# **Test de Intrusión de Hacking Etico**
 > ¿Qué es un Test de Intrusión Externo (Hacking Ético)?
 
 Nuestro servicio de Test de Intrusion Externo le permitirá conocer su perímetro de exposición, adquiriendo una foto clara de sus vulnerabilidades expuestas y de cómo ponerles solución antes de que las encuentren los cibercriminales.
