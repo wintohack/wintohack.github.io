@@ -81,7 +81,7 @@ Nuestra auditoría web de hacking ético (un aplicativo) es una evaluación exha
           </tr>
         </table>
         <input type="hidden" name="currency_code" value="EUR" />
-        <input type="image" class="paypal-button" src="docs/paypal.jpg" border="0" name="submit" title="PayPal, la forma rápida y segura de pagar en Internet." alt="Comprar ahora" />
+        <input type="image" class="paypal-button" src="docs/paypal.png" border="0" name="submit" title="PayPal, la forma rápida y segura de pagar en Internet." alt="Comprar ahora" />
       </form>
       <div id="info" class="info"></div>
     </div>
