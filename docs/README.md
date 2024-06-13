@@ -24,7 +24,7 @@ El pentesting es una simulación de ataque cibernético controlado que identific
       display: flex;
       justify-content: center;
       align-items: center;
-      height: 10vh;
+      height: 20vh;
     }
   </style>
 </head>
