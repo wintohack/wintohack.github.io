@@ -15,8 +15,6 @@ Nuestra auditoría web de hacking ético (un aplicativo) es una evaluación exha
 - **Evita Costos**: Reduce el riesgo de costosos incidentes de seguridad y pérdida de datos.
 
 
-
-<!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8">
@@ -40,7 +38,7 @@ Nuestra auditoría web de hacking ético (un aplicativo) es una evaluación exha
       justify-content: center;
     }
     .custom-button {
-      width: 100%;
+      width: 200%;
       max-width: 200px; /* Adjust the max-width as needed */
     }
   </style>
@@ -63,7 +61,7 @@ Nuestra auditoría web de hacking ético (un aplicativo) es una evaluación exha
 <body>
   <div class="container">
     <div class="image">
-      <img src="docs/hackerr.jpg" alt="Hacker" width="300" height="300">
+      <img src="docs/hacker.jpg" alt="Hacker" width="300" height="300">
     </div>
     <div>
       <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
