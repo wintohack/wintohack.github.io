@@ -12,7 +12,7 @@
 
   <header>
         <div class="logo">
-            <img src="images/logo.jpg" alt="Logo de la Empresa">
+            <img src="images/logo.jpg" alt="Logo de la Empresa" height="160" weight="25" >
         </div>
         <nav>
             <ul>
