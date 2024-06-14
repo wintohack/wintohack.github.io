@@ -69,10 +69,9 @@
         </div>
 
            <tr>
-              <span class="price original-price">€3.050,00 EUR</span>
+    <span class="price original-price">€3.050,00 EUR</span>
     <span class="price">€2.750,00 EUR</span>
-    <br>
-    <button class="offer-button">Oferta</button>
+    <span class="offer-badge">Oferta</span>
             </tr>
         <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
           <input type="hidden" name="cmd" value="_s-xclick" />
