@@ -72,6 +72,12 @@
           <input type="hidden" name="hosted_button_id" value="7LP3R7NTV69QA" />
           <table>
             <tr>
+            <td>
+              <span class="price original-price">€3.050,00 EUR</span>
+    <span class="price">€2.750,00 EUR</span>
+    <br>
+    <button class="offer-button">Oferta</button>
+            </td>
               <td>
                 <input type="hidden" name="on0" value="Tipo de Pentest"/>
                 Tipo de Pentest
