@@ -162,21 +162,22 @@ button:hover {
 
         .price {
             font-size: 1.5em;
+            vertical-align: middle;
         }
         .original-price {
             text-decoration: line-through;
             margin-right: 10px;
         }
-        .offer-button {
+        .offer-badge {
             background-color: #3b6ccf;
             color: white;
-            border: none;
-            padding: 10px 20px;
+            padding: 5px 10px;
             border-radius: 5px;
-            cursor: pointer;
-            font-size: 1em;
+            font-size: 0.8em;
+            vertical-align: middle;
+            margin-left: 10px;
+            display: inline-block;
         }
-
 
 
 footer {
