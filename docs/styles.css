@@ -160,6 +160,23 @@ button:hover {
 }
 
 
+        .price {
+            font-size: 1.5em;
+        }
+        .original-price {
+            text-decoration: line-through;
+            margin-right: 10px;
+        }
+        .offer-button {
+            background-color: #3b6ccf;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 1em;
+        }
+
 
 
 footer {
