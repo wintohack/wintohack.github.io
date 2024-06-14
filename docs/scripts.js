@@ -13,6 +13,23 @@
       }
     }
 
+const contactForm = document.getElementById("contactForm");
+contactForm.addEventListener("submit", function(event) {
+    event.preventDefault();
+
+    const email = document.getElementById("email").value;
+    const mensaje = document.getElementById("mensaje").value;
+
+    emailjs.send('YOUR_SERVICE_ID', 'YOUR_TEMPLATE_ID', {
+        email: email,
+        message: mensaje
+    }).then(function(response) {
+        alert('Mensaje enviado con éxito!');
+        contactForm.reset();
+    }, function(error) {
+        alert('Error al enviar el mensaje.');
+    });
+});
 
 
 
