@@ -1,3 +1,22 @@
+
+    function updateInfo() {
+      var select = document.getElementsByName('os0')[0];
+      var info = document.getElementById('info');
+      var selectedOption = select.options[select.selectedIndex].value;
+      
+      if (selectedOption === "Auditoria Web (un aplicativo)") {
+        info.innerHTML = '<a href="https://wintohack.github.io/docs/auditoria_web.html" target="_blank">Información sobre Auditoria Web (un aplicativo)</a>';
+      } else if (selectedOption === "Test de Intrusion Externo") {
+        info.innerHTML = '<a href="https://wintohack.github.io/docs/test_intrusion_externo.html" target="_blank">Información sobre Test de Intrusión Externo</a>';
+      } else {
+        info.innerHTML = '';
+      }
+    }
+
+
+
+
+
 document.addEventListener("DOMContentLoaded", function() {
     const comentarios = [
         {
