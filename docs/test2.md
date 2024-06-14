@@ -1,8 +1,11 @@
+# **Auditorías de Ciberseguridad para Pymes**
+
 <html lang="es">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Auditoria Web (Hacking Ético)</title>
+  <link rel="stylesheet" href="styles.css">
   <style>
     .content {
       display: flex;
@@ -18,7 +21,7 @@
       display: flex;
       flex-direction: column;
       align-items: center;
-      border: 2px solid yellow; /*#000; /* Añadir borde alrededor del contenedor */
+      border: 2px solid green; /*#000; /* Añadir borde alrededor del contenedor */
       border-radius: 10px; /* Añadir esquinas redondeadas */
       margin: 20px; /* Añadir margen alrededor del contenedor */
     }
@@ -63,6 +66,40 @@
   </script>
 </head>
 <body>
+
+  <header>
+        <div class="logo">
+            <img src="logo.png" alt="Logo de la Empresa">
+        </div>
+        <nav>
+            <ul>
+                <li><a href="#inicio">Inicio</a></li>
+                <li><a href="#servicios">Servicios</a></li>
+                <li><a href="#comentarios">Comentarios</a></li>
+                <li><a href="#contacto">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="comentarios" class="container">
+            <h1>Comentarios de Clientes</h1>
+            <div class="comentarios-lista" id="comentariosLista"></div>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Auditorías de Hacking Ético. Todos los derechos reservados.</p>
+    </footer>
+    <script src="scripts.js"></script>
+
+    
+
+
+
+
+
+
+
+  
   <div class="content">
     <div class="text">
       <h1>Auditoria Web (Hacking Ético)</h1>
@@ -98,7 +135,7 @@
     <div class="form-info-container">
       <div class="form-container">
         <div class="image">
-          <img src="hacker.jpg" alt="Hacker" width="350" height="400">
+          <img src="docs/hacker.jpg" alt="Hacker" width="350" height="400">
         </div>
         <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
           <input type="hidden" name="cmd" value="_s-xclick" />
@@ -125,7 +162,7 @@
           </table>
           <input type="hidden" name="currency_code" value="EUR" />
           <div class="button-container">
-            <input type="image" class="custom-button" src="paypal.png" border="0" name="submit" title="Pagar ahora" alt="Comprar ahora" />
+            <input type="image" class="custom-button" src="docs/paypal.png" border="0" name="submit" title="Pagar ahora" alt="Comprar ahora" />
           </div>
         </form>
       </div>
@@ -134,3 +171,4 @@
   </div>
 </body>
 </html>
+
