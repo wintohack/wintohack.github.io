@@ -115,6 +115,26 @@
         </section>
     </main>
 
+<section id="contacto" class="container">
+    <h2>Contacto</h2>
+    <form id="contactForm">
+        <label for="email">Correo Electrónico:</label>
+        <input type="email" id="email" name="email" required>
+        
+        <label for="mensaje">Consulta:</label>
+        <textarea id="mensaje" name="mensaje" rows="5" required></textarea>
+        
+        <button type="submit">Enviar</button>
+    </form>
+</section>
+
+<script src="https://cdn.emailjs.com/dist/email.min.js"></script>
+<script>
+    (function() {
+        emailjs.init('YOUR_USER_ID'); // Reemplaza 'YOUR_USER_ID' con tu user ID de EmailJS
+    })();
+</script>
+
 
   
       <footer>
