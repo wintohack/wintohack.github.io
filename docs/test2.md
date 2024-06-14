@@ -6,9 +6,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Auditoria Web (Hacking Ético)</title>
   <link rel="stylesheet" href="styles.css">
-  
- 
 </head>
+
 <body>
 
   <header>
@@ -35,8 +34,7 @@
 
 
 
-
-  
+<section id="servicios" class="container">
   <div class="content">
     <div class="text">
       <h1>Auditoria Web (Hacking Ético)</h1>
@@ -106,14 +104,17 @@
       <div id="info" class="info"></div>
     </div>
   </div>
+</section>
 
 
-    <main>
+<main>
         <section id="comentarios" class="container">
             <h1>Comentarios de Clientes</h1>
             <div class="comentarios-lista" id="comentariosLista"></div>
         </section>
-    </main>
+
+
+
 
 <section id="contacto" class="container">
     <h2>Contacto</h2>
@@ -127,6 +128,8 @@
         <button type="submit">Enviar</button>
     </form>
 </section>
+</main>
+
 
 <script src="https://cdn.emailjs.com/dist/email.min.js"></script>
 <script>
