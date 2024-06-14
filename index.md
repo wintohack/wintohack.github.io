@@ -12,7 +12,7 @@
 
   <header>
         <div class="logo">
-            <img src="logo.png" alt="Logo de la Empresa">
+            <img src="images/logo.png" alt="Logo de la Empresa">
         </div>
         <nav>
             <ul>
