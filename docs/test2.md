@@ -6,64 +6,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Auditoria Web (Hacking Ético)</title>
   <link rel="stylesheet" href="styles.css">
-  <style>
-    .content {
-      display: flex;
-    }
-    .text {
-      flex: 1;
-      padding: 20px;
-    }
-    .form-container {
-      flex: 1;
-      padding: 20px;
-      border-left: 1px solid #ddd;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      border: 2px solid green; /*#000; /* Añadir borde alrededor del contenedor */
-      border-radius: 10px; /* Añadir esquinas redondeadas */
-      margin: 20px; /* Añadir margen alrededor del contenedor */
-    }
-    .image {
-      margin-bottom: 20px;
-    }
-    .info-container {
-      flex: 1;
-      padding: 20px;
-      border-left: 1px solid #ddd;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-    }
-    .info {
-      margin-top: 10px;
-      text-align: center;
-    }
-    .button-container {
-      display: flex;
-      justify-content: center;
-    }
-    .custom-button {
-      width: 100%;
-      max-width: 300px; /* Ajustar el max-width según sea necesario */
-    }
-  </style>
-  <script>
-    function updateInfo() {
-      var select = document.getElementsByName('os0')[0];
-      var info = document.getElementById('info');
-      var selectedOption = select.options[select.selectedIndex].value;
-      
-      if (selectedOption === "Auditoria Web (un aplicativo)") {
-        info.innerHTML = '<a href="https://wintohack.github.io/docs/auditoria_web.html" target="_blank">Información sobre Auditoria Web (un aplicativo)</a>';
-      } else if (selectedOption === "Test de Intrusion Externo") {
-        info.innerHTML = '<a href="https://wintohack.github.io/docs/test_intrusion_externo.html" target="_blank">Información sobre Test de Intrusión Externo</a>';
-      } else {
-        info.innerHTML = '';
-      }
-    }
-  </script>
+  
+ 
 </head>
 <body>
 
