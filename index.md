@@ -1,4 +1,4 @@
-# **Auditorías para Pymes**
+# **Auditorías de Ciberseguridad para Pymes**
 
 <html lang="es">
 <head>
