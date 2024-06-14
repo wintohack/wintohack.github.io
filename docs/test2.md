@@ -24,15 +24,8 @@
             </ul>
         </nav>
     </header>
-    <main>
-        <section id="comentarios" class="container">
-            <h1>Comentarios de Clientes</h1>
-            <div class="comentarios-lista" id="comentariosLista"></div>
-        </section>
-    </main>
-    <footer>
-        <p>&copy; 2024 Auditorías de Hacking Ético. Todos los derechos reservados.</p>
-    </footer>
+
+
     <script src="scripts.js"></script>
 
     
@@ -113,6 +106,20 @@
       <div id="info" class="info"></div>
     </div>
   </div>
+
+
+    <main>
+        <section id="comentarios" class="container">
+            <h1>Comentarios de Clientes</h1>
+            <div class="comentarios-lista" id="comentariosLista"></div>
+        </section>
+    </main>
+
+
+  
+      <footer>
+        <p>&copy; 2024 WinToHack - Auditorías de Hacking Ético para Pymes. Todos los derechos reservados.</p>
+    </footer>
 </body>
 </html>
 
