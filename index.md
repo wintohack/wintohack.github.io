@@ -137,7 +137,7 @@
 <script src="https://cdn.emailjs.com/dist/email.min.js"></script>
 <script>
     (function() {
-        emailjs.init('YOUR_USER_ID'); // Reemplaza 'YOUR_USER_ID' con tu user ID de EmailJS
+        emailjs.init('service_3nm4gsv'); // Reemplaza 'YOUR_USER_ID' con tu user ID de EmailJS
     })();
 </script>
 
